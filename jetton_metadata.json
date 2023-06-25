@@ -1,0 +1,7 @@
+{
+  "name": "Aqua USD",
+  "description": "Aqua USD - Algorithmic Stable Token.",
+  "symbol": "aUSD",
+  "decimals": 6,
+  "image": "https://sergeymart.github.io/assets/aquausd.png"
+}
